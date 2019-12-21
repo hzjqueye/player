@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>图片/背景.jpg</file>
+        <file>图片/背景2.jpg</file>
+        <file>图片/背景3.jpg</file>
+        <file>图片/薛之谦.jpg</file>
+    </qresource>
+</RCC>
